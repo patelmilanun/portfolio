@@ -1,5 +1,4 @@
 import { FC } from 'react';
-import 'highlight.js/styles/github-dark.css';
 
 import { H1, H2, P } from '@/components/UI/Typography';
 import Slider from '@/components/UI/Slider';
